@@ -4,8 +4,8 @@ class Iv < Formula
   desc "a command-line image viewer using terminal graphics (Sixel, iTerm, Kitty)"
   homepage "https://#{$pkg}"
   head "https://#{$pkg}.git"
-  url "https://github.com/kenshaw/iv/archive/v0.17.2.tar.gz"
-  sha256 "c3f0747f9eee7c0c9a754aca9260787ff9c701d8ad2c85aeae51f0249a3a6986"
+  url "https://github.com/kenshaw/iv/archive/v0.17.3.tar.gz"
+  sha256 "0226a0c7c893b324768a750af64e04b518903ca5a35b493c0bea7e35b8f0c2f8"
 
   depends_on "go" => :build
 
